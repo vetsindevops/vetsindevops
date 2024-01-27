@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vetsindevops" target="blank"><img src="https://img.shields.io/twitter/follow/vetsindevops?logo=twitter&style=for-the-badge" alt="vetsindevops" /></a> </p>
 
-- 🔭 We are currently working on [A Podcast](https://www.vetsindevops.com/)
+- 🔭 We are currently working on [A Podcast]([https://www.vetsindevops.com/](https://open.spotify.com/show/0LtJNGxs1qnfOvIMCmBnn5))
 
 - 🌱 I’m currently learning **Zig, Nomad, Kubernetes, AWS, Google, etc**
 
