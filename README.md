@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, We're Vetsindevops</h1>
-<h3 align="center">We empower the mission from the white board to action! Our publication was founded to serve those who have served giving them a voice to share technology though leadership.</h3>
+<h3 align="center">Our goal is to bring the huge military veteran community in the DevOps & Cloud Computing ecosphere together. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vetsindevops&label=Profile%20views&color=0e75b6&style=flat" alt="vetsindevops" /> </p>
 
