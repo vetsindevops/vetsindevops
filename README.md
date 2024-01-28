@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [Empowering Veteran voices](https://www.vetsindevops.com/)
 
-- 📝 I regularly write articles on [https://medium.com/@cobra16](https://medium.com/@cobra16)
+- 📝 We started a publication on Medium at [Medium]([https://medium.com/@cobra16](https://medium.com/vets-in-devops)
 
 - 💬 Ask me about **Linux, Cloud, Terraform, Nomad, Kubernetes, etc**
 
