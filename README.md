@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **corporate@veteransindevops**
 
-- ⚡ Fun fact **Go Army, Beat Navy!**
+- ⚡ Fun fact **Go Navy, Beat Army!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
